@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 creates text1.txt
+=======
+creates text1.txt
+edited
+>>>>>>> 88745783be848f4950681f49ccfb669418bb0af4
